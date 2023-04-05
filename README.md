@@ -3,9 +3,15 @@ This is the solution to the git branching assignment given to me during the firs
 
 # ASSIGNMENT
 Create three branches
+
 In python branch add index.py file
+
 In java branch add index.java file
+
 In javascript branch add index.js file
+
 Push all the branches
+
 Create pull request
+
 merge the branches with master/main branch
